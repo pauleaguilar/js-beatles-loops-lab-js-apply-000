@@ -16,6 +16,11 @@ var i = 0;
   return array;
 }
 
-//function iLoveTheBeatles(){
-
-//}
+function iLoveTheBeatles(number) {
+  var array = [];
+  do {
+    arr.push('I love the Beatles!');
+    number++;
+  } while (number < 15);
+  return arr;
+}
