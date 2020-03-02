@@ -19,7 +19,7 @@ var i = 0;
 function iLoveTheBeatles(number) {
   var array = [];
   do {
-    arr.push('I love the Beatles!');
+    array.push('I love the Beatles!');
     number++;
   } while (number < 15);
   return arr;
